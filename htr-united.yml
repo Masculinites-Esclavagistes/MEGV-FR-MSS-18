@@ -15,72 +15,92 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - s
   - a
   - r
-  - t
   - n
   - i
-  - u
+  - s
+  - t
   - o
+  - u
   - l
-  - m
   - d
   - c
+  - m
   - p
-  - ','
-  - v
-  - q
-  - "'"
-  - j
-  - f
-  - b
   - ́
-  - h
-  - g
-  - y
-  - ̀
-  - ^
-  - M
-  - x
-  - C
   - .
-  - B
-  - L
-  - P
-  - '1'
-  - A
-  - '2'
-  - z
-  - ̂
-  - R
-  - –
-  - œ
-  - '5'
-  - '7'
-  - '0'
-  - ̈
-  - ̧
-  - D
-  - O
-  - E
+  - v
+  - "'"
+  - q
+  - f
+  - g
+  - C
+  - ','
+  - ̀
+  - b
+  - M
+  - h
+  - y
+  - ^
   - S
-  - ;
-  - '9'
-  - '4'
-  - ⟦
-  - ⟧
+  - L
+  - j
+  - '1'
+  - R
+  - D
+  - '7'
+  - x
+  - '0'
+  - P
+  - '"'
+  - '2'
+  - '8'
+  - ̂
+  - V
+  - G
+  - T
+  - J
+  - N
+  - A
+  - B
+  - z
   - '3'
   - '6'
-  - '8'
-  - J
-  - °
-  - T
-  - N
-  - K
-  - Z
-  - V
+  - E
   - I
+  - '9'
+  - ⟦
+  - ⟧
+  - '4'
+  - '-'
+  - '5'
+  - F
+  - ;
+  - O
+  - '&'
+  - ̧
+  - ̈
+  - ※
+  - H
+  - ⎀
+  - °
+  - (
+  - )
+  - ':'
+  - X
+  - ꝑ
+  - –
+  - U
+  - Q
+  - ᑕ
+  - '#'
+  - '['
+  - ']'
+  - ᗞ
+  - ᗅ
+  - ¨
+  - ᵛ
   mode: NFD
 citation-file-link: >-
   https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities/blob/main/citations.cff
@@ -109,11 +129,11 @@ title: FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
 url: >-
   https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
 volume:
-- count: 24902
+- count: 38416
   metric: characters
-- count: 33
+- count: 62
   metric: files
-- count: 554
+- count: 1230
   metric: lines
-- count: 65
+- count: 109
   metric: regions
