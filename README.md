@@ -1,49 +1,11 @@
-### Ceci est un exemple tiré du github de Simon : 
 
-# FONDUE-FR-PRINT-16
+# MGEV-FR-MSS-18
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of 16th c. French prints.
-
-## Content
-
-| Author                 | Title                                             | Place | Date | Publisher                  | Source                                                     | Transcription |
-|------------------------|---------------------------------------------------|-------|------|----------------------------|------------------------------------------------------------|---------------|
-| Pernette Du Guillet    | _Les Rithmes et poésies_                          | Paris | 1546 |                            | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k3182270)  | S. Gabay      |
-| Anne de Marquets       | _Sonets, prières et devises en forme de pasquins_ | Paris | 1562 |                            | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1521180m) | S. Gabay      |
-| Georgette de Montenay  | _Emblèmes ou devises chrestiennes_                | Lyon  | 1571 | J. Marcorelle              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609568n) | S. Gabay      |
-| Maurice Scève          | _Délie, object de plus haulte vertu_              | Lyon  | 1544 | Sulpice Sabon              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609581h) | S. Gabay      |
-| Pontus de Tyard        | _Erreurs amoureuses_                              | Lyon  | 1549 | J. de Tournes              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8617188p) | S. Gabay      |
-| Guillaume des Autels   | _Repos de plus grand travail_                     | Lyon  | 1550 | J. de Tournes et G. Gazeau | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k15272172) | S. Gabay      |
-| Louise Labé            | _Euvres de Louïze Labé_                           | Lyon  | 1555 | J. de Tournes              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b86095588) | S. Gabay      |
-
-
-## How to cite
-
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/htr-united.yml) file.
-
-
-## Licences
-Annotation is CC-BY. Images belong to Gallica.
-
-<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />
-
-
-
-
-### Ce qui est attendu pour nous: 
-
-# FONDUE-FR-MANUSCRIPT-18-Colonial_Masculinities 
-TITRE DU DOSSIER/ Masculinités esclavagistes : genre et violence dans la Caraïbe française (XVIIIème siècle)
-
 This repo contains the transcription of 18th c. French manuscripts, from a composite corpus : correspondances of plantations owners in French Caribbean, individual soldiers' and colonial officers' files, court cases from the holdings of the Secrétariat de la Marine.
 
-
-## CONTENT
-Extraits ANOM COL E (à détailler ?)
-Extraits AN - correspondance Fougeu-Conflans
-Extraits Plantation Bellevue Le Gentil de Paroy
+## Content
 
 Data comes from the project entitled "Masculinités esclavagistes : genre et violence dans la Caraïbe française (XVIIIème siècle)", led by Marie Houllemare, at Geneva University (Switzerland), financed by SNSF. Transcriptions are made by Elodie Bascoul and Marion Philip, with the support of Simon Gabay. 
 
@@ -68,15 +30,24 @@ Archives Nationales (AN, Paris) - Papiers privés tombés dans le domaine public
 
 
 
-## HOW TO CITE
-Voir tel fichier pour les consignes de citation (.ymd)
+## How to cite
 
-## LICENCES
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/htr-united.yml) file.
+A changer (modèle Simon)
+
+## Licences
+
 Images of COL-E belongs to ANOM (Archives Nationales d'Outre Mer). 
 Images of Correspondances (T) are personnal photographies of sources from AN (Archives Nationales).
 Transcription is CC-BY-NC. 
 
 Celles qu'on choisi nous, cc, etc, voir les licences creative commons :
 https://fr.wikipedia.org/wiki/Licence_Creative_Commons
+
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br /> 
+à changer (modèle Simon)
+
+
+
 
 
