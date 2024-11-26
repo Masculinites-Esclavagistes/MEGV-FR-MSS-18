@@ -41,10 +41,7 @@ Images of COL-E belongs to ANOM (Archives Nationales d'Outre Mer).
 Images of Correspondances (T) are personnal photographies of sources from AN (Archives Nationales).
 Transcription is CC-BY-NC. 
 
-Celles qu'on choisi nous, cc, etc, voir les licences creative commons :
-https://fr.wikipedia.org/wiki/Licence_Creative_Commons
-
-<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br /> 
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
 à changer (modèle Simon)
 
 
