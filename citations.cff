@@ -1,0 +1,27 @@
+cff-version: 1.0
+title: Masculinités esclavagistes. Genre et violence dans la Caraïbe française (XVIIIème siècle)
+type: dataset
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+authors:
+  - family-names: Bascoul
+    given-names: Elodie
+    email: elodie.bascoul@unige.ch
+    affiliation: University of Geneva
+    orcid: 0009-0002-7324-6469
+  - family-names: Philip
+    given-names: Marion
+    email: marion.philip@unige.ch
+    affiliation: University of Geneva
+    orcid: 0009-0001-6846-2688
+keywords:
+  - HTR
+  - french
+  - modern
+  - manuscripts
+  - justice
+  - correspondence
+date-released: 2024-11-26
+url: 'https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities'
+version: 1.0
