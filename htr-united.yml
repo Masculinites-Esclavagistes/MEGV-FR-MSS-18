@@ -1,43 +1,128 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
-url: >-
-  https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
 authors:
-  - name: Marion
-    surname: Philip
-    orcid: 0009-0001-6846-2688
-    roles:
-      - transcriber
-      - project-manager
-  - name: Elodie
-    surname: Bascoul
-    orcid: 0009-0002-7324-6469
-    roles:
-      - transcriber
-      - project-manager
-institutions: []
-description: Archives from the caribbeans
-project-name: Masculinités esclavagistes
-project-website: https://www.unige.ch/masculinitesesclavagistes/projet
-language:
-  - fra
-production-software: eScriptorium + Kraken
+- name: Marion
+  orcid: 0009-0001-6846-2688
+  roles:
+  - transcriber
+  - project-manager
+  surname: Philip
+- name: Elodie
+  orcid: 0009-0002-7324-6469
+  roles:
+  - transcriber
+  - project-manager
+  surname: Bascoul
 automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1700'
-  notAfter: '1800'
+characters:
+  members:
+  - e
+  - s
+  - a
+  - r
+  - t
+  - n
+  - i
+  - u
+  - o
+  - l
+  - m
+  - d
+  - c
+  - p
+  - ','
+  - v
+  - q
+  - j
+  - "'"
+  - ́
+  - f
+  - b
+  - h
+  - g
+  - ̀
+  - y
+  - ^
+  - M
+  - x
+  - .
+  - C
+  - B
+  - L
+  - '1'
+  - P
+  - ̂
+  - A
+  - R
+  - z
+  - œ
+  - '5'
+  - '2'
+  - '7'
+  - –
+  - S
+  - D
+  - ̈
+  - '0'
+  - ̧
+  - ;
+  - O
+  - E
+  - '6'
+  - '4'
+  - V
+  - ⟦
+  - ⟧
+  - N
+  - '3'
+  - '9'
+  - '8'
+  - J
+  - ⎀
+  - ꝯ
+  - G
+  - °
+  - T
+  - ¬
+  - K
+  - Z
+  - I
+  - F
+  - ̃
+  - k
+  - /
+  - '-'
+  mode: NFD
+citation-file-link: >-
+  https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities/blob/main/citations.cff
+description: Archives from the caribbeans
+format: Alto-XML
 hands:
   count: unknown
   precision: exact
+institutions: []
+language:
+- fra
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+project-name: Masculinités esclavagistes
+project-website: https://www.unige.ch/masculinitesesclavagistes/projet
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1800'
+  notBefore: '1700'
+title: FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
+url: >-
+  https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
 volume:
-  - metric: lines
-    count: 200
-citation-file-link: >-
-  https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities/blob/main/citations.cff
+- count: 35635
+  metric: characters
+- count: 49
+  metric: files
+- count: 840
+  metric: lines
+- count: 94
+  metric: regions
