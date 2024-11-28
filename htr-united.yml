@@ -118,8 +118,8 @@ characters:
   - '`'
   mode: NFD
 citation-file-link: >-
-  https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities/blob/main/citations.cff
-description: Archives from the caribbeans
+  https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/blob/main/citations.cff
+description: Archives from the French Caribbean
 format: Alto-XML
 hands:
   count: unknown
@@ -128,8 +128,8 @@ institutions: []
 language:
 - fra
 license:
-  name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: CC-BY-NC 4.0
+  url: https://creativecommons.org/licenses/by-nc/4.0/ 
 production-software: eScriptorium + Kraken
 project-name: Masculinités esclavagistes
 project-website: https://www.unige.ch/masculinitesesclavagistes/projet
@@ -140,9 +140,9 @@ script-type: only-manuscript
 time:
   notAfter: '1800'
   notBefore: '1700'
-title: FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
+title: MEGV-FR-MSS-18
 url: >-
-  https://github.com/Masculinites-Esclavagistes/FONDUE-FR-MANUSCRIPT-18-Colonial-Masculinities
+  https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18
 volume:
 - count: 265042
   metric: characters
