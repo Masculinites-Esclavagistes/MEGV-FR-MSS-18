@@ -43,8 +43,8 @@ Archives Nationales (AN, Paris) - Papiers privés tombés dans le domaine public
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/htr-united.yml) file.
-A changer (modèle Simon)
+Cf. [`htr-united.yml`](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/blob/main/htr-united.yml) file.
+
 
 ## Licences
 
