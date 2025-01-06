@@ -1,7 +1,10 @@
 {
     "version": "0.9",
     "name": "moderne",
-    "author": "Simon Gabay <simon.gabay@unige.ch>",
+    "authors": [
+        "Simon Gabay <simon.gabay@unige.ch>", 
+        "Marion Philip <marion.philip@unige.ch>"
+    ],
     "characters": [
         {
             "row": 0,
