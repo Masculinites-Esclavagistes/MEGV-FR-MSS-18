@@ -1,0 +1,901 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <fileSec>
+    
+    <fileGrp USE="image">
+      
+        <file ID="image1">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0640.jpg"/>
+        </file>
+      
+        <file ID="image2">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0641.jpg"/>
+        </file>
+      
+        <file ID="image3">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0642.jpg"/>
+        </file>
+      
+        <file ID="image4">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0643.jpg"/>
+        </file>
+      
+        <file ID="image5">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0644.jpg"/>
+        </file>
+      
+        <file ID="image6">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0645.jpg"/>
+        </file>
+      
+        <file ID="image7">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0646.jpg"/>
+        </file>
+      
+        <file ID="image8">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0647.jpg"/>
+        </file>
+      
+        <file ID="image9">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0648.jpg"/>
+        </file>
+      
+        <file ID="image10">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0649.jpg"/>
+        </file>
+      
+        <file ID="image11">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0650.jpg"/>
+        </file>
+      
+        <file ID="image12">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0651.jpg"/>
+        </file>
+      
+        <file ID="image13">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0652.jpg"/>
+        </file>
+      
+        <file ID="image14">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0653.jpg"/>
+        </file>
+      
+        <file ID="image15">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0654.jpg"/>
+        </file>
+      
+        <file ID="image16">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0655.jpg"/>
+        </file>
+      
+        <file ID="image17">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0656.jpg"/>
+        </file>
+      
+        <file ID="image18">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0657.jpg"/>
+        </file>
+      
+        <file ID="image19">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0658.jpg"/>
+        </file>
+      
+        <file ID="image20">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0659.jpg"/>
+        </file>
+      
+        <file ID="image21">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0660.jpg"/>
+        </file>
+      
+        <file ID="image22">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0661.jpg"/>
+        </file>
+      
+        <file ID="image23">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0662.jpg"/>
+        </file>
+      
+        <file ID="image24">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0663.jpg"/>
+        </file>
+      
+        <file ID="image25">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0539.jpg"/>
+        </file>
+      
+        <file ID="image26">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0540.jpg"/>
+        </file>
+      
+        <file ID="image27">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0541.jpg"/>
+        </file>
+      
+        <file ID="image28">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0239.jpg"/>
+        </file>
+      
+        <file ID="image29">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0240.jpg"/>
+        </file>
+      
+        <file ID="image30">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0241.jpg"/>
+        </file>
+      
+        <file ID="image31">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0242.jpg"/>
+        </file>
+      
+        <file ID="image32">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0243.jpg"/>
+        </file>
+      
+        <file ID="image33">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0244.jpg"/>
+        </file>
+      
+        <file ID="image34">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0245.jpg"/>
+        </file>
+      
+        <file ID="image35">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0246.jpg"/>
+        </file>
+      
+        <file ID="image36">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0247.jpg"/>
+        </file>
+      
+        <file ID="image37">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0248.jpg"/>
+        </file>
+      
+        <file ID="image38">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0249.jpg"/>
+        </file>
+      
+        <file ID="image39">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0250.jpg"/>
+        </file>
+      
+        <file ID="image40">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0251.jpg"/>
+        </file>
+      
+        <file ID="image41">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0252.jpg"/>
+        </file>
+      
+        <file ID="image42">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0253.jpg"/>
+        </file>
+      
+        <file ID="image43">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0043.jpg"/>
+        </file>
+      
+        <file ID="image44">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0044.jpg"/>
+        </file>
+      
+        <file ID="image45">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0045.jpg"/>
+        </file>
+      
+        <file ID="image46">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0046.jpg"/>
+        </file>
+      
+        <file ID="image47">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0047.jpg"/>
+        </file>
+      
+        <file ID="image48">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0048.jpg"/>
+        </file>
+      
+        <file ID="image49">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0049.jpg"/>
+        </file>
+      
+        <file ID="image50">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0050.jpg"/>
+        </file>
+      
+        <file ID="image51">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0051.jpg"/>
+        </file>
+      
+        <file ID="image52">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0052.jpg"/>
+        </file>
+      
+        <file ID="image53">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0054.jpg"/>
+        </file>
+      
+        <file ID="image54">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0055.jpg"/>
+        </file>
+      
+        <file ID="image55">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0056.jpg"/>
+        </file>
+      
+        <file ID="image56">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0057.jpg"/>
+        </file>
+      
+        <file ID="image57">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0058.jpg"/>
+        </file>
+      
+        <file ID="image58">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0059.jpg"/>
+        </file>
+      
+        <file ID="image59">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0060.jpg"/>
+        </file>
+      
+        <file ID="image60">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0061.jpg"/>
+        </file>
+      
+        <file ID="image61">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0062.jpg"/>
+        </file>
+      
+        <file ID="image62">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0063.jpg"/>
+        </file>
+      
+        <file ID="image63">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0064.jpg"/>
+        </file>
+      
+        <file ID="image64">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0065.jpg"/>
+        </file>
+      
+        <file ID="image65">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0066.jpg"/>
+        </file>
+      
+        <file ID="image66">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0067.jpg"/>
+        </file>
+      
+        <file ID="image67">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0068.jpg"/>
+        </file>
+      
+        <file ID="image68">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0069.jpg"/>
+        </file>
+      
+    </fileGrp>
+    
+    <fileGrp USE="export">
+      
+        <file ID="export1">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0640.xml"/>
+        </file>
+      
+        <file ID="export2">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0641.xml"/>
+        </file>
+      
+        <file ID="export3">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0642.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0643.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0644.xml"/>
+        </file>
+      
+        <file ID="export6">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0645.xml"/>
+        </file>
+      
+        <file ID="export7">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0646.xml"/>
+        </file>
+      
+        <file ID="export8">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0647.xml"/>
+        </file>
+      
+        <file ID="export9">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0648.xml"/>
+        </file>
+      
+        <file ID="export10">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0649.xml"/>
+        </file>
+      
+        <file ID="export11">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0650.xml"/>
+        </file>
+      
+        <file ID="export12">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0651.xml"/>
+        </file>
+      
+        <file ID="export13">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0652.xml"/>
+        </file>
+      
+        <file ID="export14">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0653.xml"/>
+        </file>
+      
+        <file ID="export15">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0654.xml"/>
+        </file>
+      
+        <file ID="export16">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0655.xml"/>
+        </file>
+      
+        <file ID="export17">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0656.xml"/>
+        </file>
+      
+        <file ID="export18">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0657.xml"/>
+        </file>
+      
+        <file ID="export19">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0658.xml"/>
+        </file>
+      
+        <file ID="export20">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0659.xml"/>
+        </file>
+      
+        <file ID="export21">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0660.xml"/>
+        </file>
+      
+        <file ID="export22">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0661.xml"/>
+        </file>
+      
+        <file ID="export23">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0662.xml"/>
+        </file>
+      
+        <file ID="export24">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0663.xml"/>
+        </file>
+      
+        <file ID="export25">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0539.xml"/>
+        </file>
+      
+        <file ID="export26">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0540.xml"/>
+        </file>
+      
+        <file ID="export27">
+          <FLocat xlink:href="FRCAOM06_COLE_241479A_0541.xml"/>
+        </file>
+      
+        <file ID="export28">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0239.xml"/>
+        </file>
+      
+        <file ID="export29">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0240.xml"/>
+        </file>
+      
+        <file ID="export30">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0241.xml"/>
+        </file>
+      
+        <file ID="export31">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0242.xml"/>
+        </file>
+      
+        <file ID="export32">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0243.xml"/>
+        </file>
+      
+        <file ID="export33">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0244.xml"/>
+        </file>
+      
+        <file ID="export34">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0245.xml"/>
+        </file>
+      
+        <file ID="export35">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0246.xml"/>
+        </file>
+      
+        <file ID="export36">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0247.xml"/>
+        </file>
+      
+        <file ID="export37">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0248.xml"/>
+        </file>
+      
+        <file ID="export38">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0249.xml"/>
+        </file>
+      
+        <file ID="export39">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0250.xml"/>
+        </file>
+      
+        <file ID="export40">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0251.xml"/>
+        </file>
+      
+        <file ID="export41">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0252.xml"/>
+        </file>
+      
+        <file ID="export42">
+          <FLocat xlink:href="FRCAOM06_COLE_241218A_0253.xml"/>
+        </file>
+      
+        <file ID="export43">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0043.xml"/>
+        </file>
+      
+        <file ID="export44">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0044.xml"/>
+        </file>
+      
+        <file ID="export45">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0045.xml"/>
+        </file>
+      
+        <file ID="export46">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0046.xml"/>
+        </file>
+      
+        <file ID="export47">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0047.xml"/>
+        </file>
+      
+        <file ID="export48">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0048.xml"/>
+        </file>
+      
+        <file ID="export49">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0049.xml"/>
+        </file>
+      
+        <file ID="export50">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0050.xml"/>
+        </file>
+      
+        <file ID="export51">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0051.xml"/>
+        </file>
+      
+        <file ID="export52">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0052.xml"/>
+        </file>
+      
+        <file ID="export53">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0054.xml"/>
+        </file>
+      
+        <file ID="export54">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0055.xml"/>
+        </file>
+      
+        <file ID="export55">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0056.xml"/>
+        </file>
+      
+        <file ID="export56">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0057.xml"/>
+        </file>
+      
+        <file ID="export57">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0058.xml"/>
+        </file>
+      
+        <file ID="export58">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0059.xml"/>
+        </file>
+      
+        <file ID="export59">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0060.xml"/>
+        </file>
+      
+        <file ID="export60">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0061.xml"/>
+        </file>
+      
+        <file ID="export61">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0062.xml"/>
+        </file>
+      
+        <file ID="export62">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0063.xml"/>
+        </file>
+      
+        <file ID="export63">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0064.xml"/>
+        </file>
+      
+        <file ID="export64">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0065.xml"/>
+        </file>
+      
+        <file ID="export65">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0066.xml"/>
+        </file>
+      
+        <file ID="export66">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0067.xml"/>
+        </file>
+      
+        <file ID="export67">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0068.xml"/>
+        </file>
+      
+        <file ID="export68">
+          <FLocat xlink:href="FRCAOM06_COLE_241351A_0069.xml"/>
+        </file>
+      
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="document">
+      
+      <div TYPE="page">
+        <fptr FILEID="image1"/>
+        <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image2"/>
+        <fptr FILEID="export2"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image3"/>
+        <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image4"/>
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image5"/>
+        <fptr FILEID="export5"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image6"/>
+        <fptr FILEID="export6"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image7"/>
+        <fptr FILEID="export7"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image8"/>
+        <fptr FILEID="export8"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image9"/>
+        <fptr FILEID="export9"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image10"/>
+        <fptr FILEID="export10"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image11"/>
+        <fptr FILEID="export11"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image12"/>
+        <fptr FILEID="export12"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image13"/>
+        <fptr FILEID="export13"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image14"/>
+        <fptr FILEID="export14"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image15"/>
+        <fptr FILEID="export15"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image16"/>
+        <fptr FILEID="export16"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image17"/>
+        <fptr FILEID="export17"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image18"/>
+        <fptr FILEID="export18"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image19"/>
+        <fptr FILEID="export19"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image20"/>
+        <fptr FILEID="export20"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image21"/>
+        <fptr FILEID="export21"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image22"/>
+        <fptr FILEID="export22"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image23"/>
+        <fptr FILEID="export23"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image24"/>
+        <fptr FILEID="export24"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image25"/>
+        <fptr FILEID="export25"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image26"/>
+        <fptr FILEID="export26"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image27"/>
+        <fptr FILEID="export27"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image28"/>
+        <fptr FILEID="export28"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image29"/>
+        <fptr FILEID="export29"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image30"/>
+        <fptr FILEID="export30"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image31"/>
+        <fptr FILEID="export31"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image32"/>
+        <fptr FILEID="export32"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image33"/>
+        <fptr FILEID="export33"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image34"/>
+        <fptr FILEID="export34"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image35"/>
+        <fptr FILEID="export35"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image36"/>
+        <fptr FILEID="export36"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image37"/>
+        <fptr FILEID="export37"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image38"/>
+        <fptr FILEID="export38"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image39"/>
+        <fptr FILEID="export39"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image40"/>
+        <fptr FILEID="export40"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image41"/>
+        <fptr FILEID="export41"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image42"/>
+        <fptr FILEID="export42"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image43"/>
+        <fptr FILEID="export43"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image44"/>
+        <fptr FILEID="export44"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image45"/>
+        <fptr FILEID="export45"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image46"/>
+        <fptr FILEID="export46"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image47"/>
+        <fptr FILEID="export47"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image48"/>
+        <fptr FILEID="export48"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image49"/>
+        <fptr FILEID="export49"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image50"/>
+        <fptr FILEID="export50"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image51"/>
+        <fptr FILEID="export51"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image52"/>
+        <fptr FILEID="export52"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image53"/>
+        <fptr FILEID="export53"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image54"/>
+        <fptr FILEID="export54"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image55"/>
+        <fptr FILEID="export55"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image56"/>
+        <fptr FILEID="export56"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image57"/>
+        <fptr FILEID="export57"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image58"/>
+        <fptr FILEID="export58"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image59"/>
+        <fptr FILEID="export59"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image60"/>
+        <fptr FILEID="export60"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image61"/>
+        <fptr FILEID="export61"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image62"/>
+        <fptr FILEID="export62"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image63"/>
+        <fptr FILEID="export63"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image64"/>
+        <fptr FILEID="export64"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image65"/>
+        <fptr FILEID="export65"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image66"/>
+        <fptr FILEID="export66"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image67"/>
+        <fptr FILEID="export67"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image68"/>
+        <fptr FILEID="export68"/>
+      </div>
+      
+    </div>
+  </structMap>
+</mets>
