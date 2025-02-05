@@ -101,13 +101,13 @@ Data comes from the project entitled "Masculinités esclavagistes : genre et vio
 
 | Description                                                                                | File Number                                         | Source                       | Transcription |
 |--------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------|---------------|
-| Correspondance Marie-Rose Fougeu – Hubert de Brienne comte de Conflans - Marie du Bouchet  |  T//586 - liasse 14 - côte O - 1 à 11 et 140 à 146  | Photographies personnelles   | M. Maillard   |
+| Correspondance Marie-Rose Fougeu – Hubert de Brienne comte de Conflans - Marie du Bouchet  |  T//586 - liasse 14 - côte O - 1 à 11 et 140 à 146  | Photographies personnelles   | M. Philip  |
 
 #### Dossier "an_corresp_fougeu_conflans_2"
 
 | Description                                                                                | File Number                                                           | Source                       | Transcription |
 |--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------|---------------|
-| Correspondance Marie-Rose Fougeu – Hubert de Brienne comte de Conflans - Marie du Bouchet  |  T//586 - liasse 14 - côte O - 69 à 81;  liasse 12 - côte M - 7 à 16  | Photographies personnelles   | M. Philip     |
+| Correspondance Marie-Rose Fougeu – Hubert de Brienne comte de Conflans - Marie du Bouchet  |  T//586 - liasse 14 - côte O - 69 à 81;  liasse 12 - côte M - 7 à 16  | Photographies personnelles   | M. Maillard     |
 
 #### Dossier "an_corresp_provenchere_rochefoucauld"
 
