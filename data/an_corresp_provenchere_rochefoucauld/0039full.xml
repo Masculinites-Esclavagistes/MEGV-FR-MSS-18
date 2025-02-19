@@ -30,7 +30,7 @@
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="540 320 540 1893 2417 1893 2417 320"/></Shape>
           <TextLine ID="eSc_line_b14c4bbf"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="670 436 2345 427" 
                     HPOS="669.0"
                     VPOS="370.0"
@@ -44,7 +44,7 @@
                     HEIGHT="102.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_0b09adad"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="663 554 906 548 1785 554 2306 545" 
                     HPOS="661.0"
                     VPOS="492.0"
@@ -58,7 +58,7 @@
                     HEIGHT="86.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_d4edea95"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="654 667 1567 676 2388 669" 
                     HPOS="652.0"
                     VPOS="622.0"
@@ -72,7 +72,7 @@
                     HEIGHT="80.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_046d1748"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="654 787 1381 782 2321 787" 
                     HPOS="654.0"
                     VPOS="740.0"
@@ -86,7 +86,7 @@
                     HEIGHT="68.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_b8c0b0a8"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="657 909 2396 899" 
                     HPOS="655.0"
                     VPOS="855.0"
@@ -100,7 +100,7 @@
                     HEIGHT="69.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_020f823d"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="654 1021 2393 1021" 
                     HPOS="654.0"
                     VPOS="972.0"
@@ -114,7 +114,7 @@
                     HEIGHT="84.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_ccaf2389"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="663 1142 2358 1142" 
                     HPOS="663.0"
                     VPOS="1084.0"
@@ -128,7 +128,7 @@
                     HEIGHT="103.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_f49c5de4"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="667 1256 891 1251" 
                     HPOS="666.0"
                     VPOS="1220.0"
@@ -142,7 +142,7 @@
                     HEIGHT="49.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_aed2f2f8"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="781 1357 1526 1363" 
                     HPOS="779.0"
                     VPOS="1307.0"
@@ -156,7 +156,7 @@
                     HEIGHT="85.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_5bbf7c26"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="1537 1431 2381 1422" 
                     HPOS="1535.0"
                     VPOS="1368.0"
@@ -170,7 +170,7 @@
                     HEIGHT="82.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_4f4521db"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="669 1565 1467 1570" 
                     HPOS="667.0"
                     VPOS="1520.0"
@@ -184,7 +184,7 @@
                     HEIGHT="81.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_cf87e398"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="1498 1517 2381 1513" 
                     HPOS="1496.0"
                     VPOS="1466.0"
@@ -198,7 +198,7 @@
                     HEIGHT="77.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_6bbd326a"
-                    TAGREFS="LT614"
+                    TAGREFS="LT8"
                     BASELINE="1652 1676 2125 1671" 
                     HPOS="1650.0"
                     VPOS="1573.0"
