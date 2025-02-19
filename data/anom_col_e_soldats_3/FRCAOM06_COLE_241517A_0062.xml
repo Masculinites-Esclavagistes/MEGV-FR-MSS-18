@@ -29,7 +29,7 @@
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="673 1737 673 2702 2175 2702 2175 1737"/></Shape>
           <TextLine ID="eSc_line_7015a596"
-                    TAGREFS="LT637"
+                    TAGREFS="LT8"
                     BASELINE="1059 2022 2030 2001 2076 2000" 
                     HPOS="1054"
                     VPOS="1858"
@@ -43,7 +43,7 @@
                     HEIGHT="214"></String>
           </TextLine>
           <TextLine ID="eSc_line_d73e1cd2"
-                    TAGREFS="LT637"
+                    TAGREFS="LT8"
                     BASELINE="748 2284 998 2272 1198 2248 1899 2217" 
                     HPOS="743"
                     VPOS="2155"
@@ -57,7 +57,7 @@
                     HEIGHT="148"></String>
           </TextLine>
           <TextLine ID="eSc_line_02e5ec9f"
-                    TAGREFS="LT637"
+                    TAGREFS="LT8"
                     BASELINE="793 2417 1093 2415 1629 2372 1975 2363" 
                     HPOS="788"
                     VPOS="2294"
@@ -71,7 +71,7 @@
                     HEIGHT="181"></String>
           </TextLine>
           <TextLine ID="eSc_line_59d5789f"
-                    TAGREFS="LT637"
+                    TAGREFS="LT8"
                     BASELINE="1274 2609 1587 2586" 
                     HPOS="1265"
                     VPOS="2497"
@@ -93,7 +93,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="2198 3117 2198 3528 2725 3528 2725 3117"/></Shape>
           <TextLine ID="eSc_line_11054d60"
-                    TAGREFS="LT637"
+                    TAGREFS="LT8"
                     BASELINE="2308 3289 2497 3296" 
                     HPOS="2306"
                     VPOS="3208"
@@ -107,7 +107,7 @@
                     HEIGHT="131"></String>
           </TextLine>
           <TextLine ID="eSc_line_cf93540d"
-                    TAGREFS="LT637"
+                    TAGREFS="LT8"
                     BASELINE="2321 3408 2592 3401" 
                     HPOS="2316"
                     VPOS="3305"
