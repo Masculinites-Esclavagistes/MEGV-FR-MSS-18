@@ -29,7 +29,7 @@
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="978 1958 978 3904 2906 3904 2906 1958"/></Shape>
           <TextLine ID="eSc_line_7dcedaac"
-                    TAGREFS="LT630"
+                    TAGREFS="LT8"
                     BASELINE="1220 2194 1602 2194 1774 2191 1994 2184" 
                     HPOS="1214"
                     VPOS="2013"
@@ -43,7 +43,7 @@
                     HEIGHT="289"></String>
           </TextLine>
           <TextLine ID="eSc_line_099727dc"
-                    TAGREFS="LT630"
+                    TAGREFS="LT8"
                     BASELINE="2311 3494 2614 3498" 
                     HPOS="2309"
                     VPOS="3374"
@@ -57,7 +57,7 @@
                     HEIGHT="225"></String>
           </TextLine>
           <TextLine ID="eSc_line_3aee2dd1"
-                    TAGREFS="LT630"
+                    TAGREFS="LT8"
                     BASELINE="2309 3724 2632 3719" 
                     HPOS="2306"
                     VPOS="3604"
