@@ -151,7 +151,7 @@ volume:
   metric: characters
 - count: 645
   metric: files
-- count: 15981
+- count: 15800
   metric: lines
-- count: 1415
+- count: 1406
   metric: regions
