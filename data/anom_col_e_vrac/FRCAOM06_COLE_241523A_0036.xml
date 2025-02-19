@@ -29,7 +29,7 @@
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="407 251 407 1226 2015 1226 2015 251"/></Shape>
           <TextLine ID="eSc_line_df03230d"
-                    TAGREFS="LT443"
+                    TAGREFS="LT8"
                     BASELINE="473 357 1912 315" 
                     HPOS="470"
                     VPOS="278"
@@ -43,7 +43,7 @@
                     HEIGHT="122"></String>
           </TextLine>
           <TextLine ID="eSc_line_760827b8"
-                    TAGREFS="LT443"
+                    TAGREFS="LT8"
                     BASELINE="465 473 880 462 1601 425 1908 416" 
                     HPOS="464"
                     VPOS="368"
@@ -57,7 +57,7 @@
                     HEIGHT="157"></String>
           </TextLine>
           <TextLine ID="eSc_line_39958726"
-                    TAGREFS="LT443"
+                    TAGREFS="LT8"
                     BASELINE="485 589 910 573 957 559 1468 541 1668 525 1914 521" 
                     HPOS="482"
                     VPOS="477"
@@ -71,7 +71,7 @@
                     HEIGHT="140"></String>
           </TextLine>
           <TextLine ID="eSc_line_9678d264"
-                    TAGREFS="LT443"
+                    TAGREFS="LT8"
                     BASELINE="489 709 1513 674" 
                     HPOS="487"
                     VPOS="627"
@@ -85,7 +85,7 @@
                     HEIGHT="133"></String>
           </TextLine>
           <TextLine ID="eSc_line_75fbfd61"
-                    TAGREFS="LT443"
+                    TAGREFS="LT8"
                     BASELINE="708 867 1922 833" 
                     HPOS="705"
                     VPOS="774"
@@ -99,7 +99,7 @@
                     HEIGHT="133"></String>
           </TextLine>
           <TextLine ID="eSc_line_421e2494"
-                    TAGREFS="LT443"
+                    TAGREFS="LT8"
                     BASELINE="504 1008 780 997 1227 963 1880 940" 
                     HPOS="501"
                     VPOS="892"
@@ -113,7 +113,7 @@
                     HEIGHT="145"></String>
           </TextLine>
           <TextLine ID="eSc_line_e66adb33"
-                    TAGREFS="LT443"
+                    TAGREFS="LT8"
                     BASELINE="504 1135 1287 1104" 
                     HPOS="501"
                     VPOS="1061"
