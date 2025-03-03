@@ -15,6 +15,20 @@ authors:
     email: marion.philip@unige.ch
     affiliation: University of Geneva
     orcid: 0009-0001-6846-2688
+  - family-names: Maillard
+    given-names: Méloé
+    email: meloe.maillard@unige.ch
+    affiliation: University of Geneva
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: University of Geneva
+    orcid: 0000-0001-9094-4475
+  - family-names: Gauffroy-Naudin
+    given-names: Thomas
+    email: thomas.gauffroy-naudin@unige.ch
+    affiliation: University of Geneva
+
 keywords:
   - HTR
   - french
