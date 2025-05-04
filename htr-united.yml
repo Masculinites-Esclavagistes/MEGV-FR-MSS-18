@@ -11,6 +11,10 @@ authors:
   - transcriber
   - project-manager
   surname: Bascoul
+  - name: Méloé
+  surname : Maillard
+  roles:
+  - transcriber
 automatically-aligned: false
 characters:
   members:
