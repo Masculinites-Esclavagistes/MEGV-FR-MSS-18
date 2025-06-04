@@ -22,78 +22,85 @@ characters:
   - s
   - a
   - r
+  - i
   - t
   - n
-  - i
   - u
   - o
   - l
-  - m
   - d
+  - m
   - c
   - p
-  - ','
   - v
+  - ','
   - q
-  - j
   - "'"
   - ́
+  - j
   - f
   - b
   - h
   - g
-  - ̀
-  - y
-  - ^
   - M
+  - ^
+  - ̀
   - .
+  - y
   - x
   - C
-  - B
   - L
-  - P
-  - '1'
   - ̂
-  - A
+  - –
+  - P
   - R
+  - D
+  - '1'
+  - B
+  - S
   - z
   - œ
-  - '5'
-  - '2'
+  - A
   - '7'
-  - –
-  - D
-  - S
-  - ̧
-  - ̈
+  - '5'
+  - E
   - '0'
   - ;
-  - O
-  - E
-  - '6'
-  - '4'
   - V
+  - '2'
+  - ̈
+  - '6'
+  - '&'
+  - ̧
+  - ⎀
   - ⟦
   - ⟧
+  - J
+  - O
   - N
+  - G
+  - '4'
+  - '8'
   - '3'
   - '9'
-  - '8'
-  - J
   - T
-  - G
-  - ⎀
+  - ¬
+  - I
+  - ⎯
+  - (
   - ꝯ
   - °
-  - ¬
-  - K
-  - Z
-  - I
+  - '-'
+  - ':'
   - F
-  - ̃
   - k
   - /
-  - '-'
+  - K
+  - Z
+  - Q
+  - )
+  - ̃
+  - W
   mode: NFD
 citation-file-link: >-
   https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/blob/main/citations.cff
@@ -122,11 +129,11 @@ title: MEGV-FR-MSS-18
 url: >-
   https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18
 volume:
-- count: 36481
+- count: 81963
   metric: characters
-- count: 49
+- count: 107
   metric: files
-- count: 839
+- count: 1951
   metric: lines
-- count: 96
+- count: 214
   metric: regions
