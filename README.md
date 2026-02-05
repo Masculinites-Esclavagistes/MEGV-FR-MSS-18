@@ -5,7 +5,7 @@
 
 ## Content
 
-This repo contains training data [`data_ref`](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/tree/a7d231515a9a87c8d3ae1367127a7b175f8f9129/data_ref), as well as HTR and segmentation models fine-tuned with this training data (FoNDUE-GD-MEGV_v2 and seg_megv), for the project entitled 'Masculinités Esclavagistes : Genre et Violence dans la Caraïbe Française (XVIIIème siècle)' or MEGV. The training data was also OCR'd using the MEGV models [`data_ocr`] (https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/tree/main/data_ocr). 
+This repo contains training data [`data_ref`](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/tree/a7d231515a9a87c8d3ae1367127a7b175f8f9129/data_ref), as well as HTR and segmentation models fine-tuned with this training data (FoNDUE-GD-MEGV_v2 and seg_megv), for the project entitled 'Masculinités Esclavagistes : Genre et Violence dans la Caraïbe Française (XVIIIème siècle)' or MEGV. The training data was also OCR'd using the MEGV models [`data_ocr`](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/tree/main/data_ocr). 
 The training data originates from manual transcriptions of 18th c. French manuscripts from a composite corpus: the correspondence of plantation owners in the French Caribbean, the files of individual soldiers and colonial officers, and court cases from the holdings of the Secrétariat de la Marine.
 
 The data comes from the MEGV project, led by Marie Houllemare at the University of Geneva (Switzerland) and financed by the SNSF. 
